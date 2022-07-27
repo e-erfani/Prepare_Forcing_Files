@@ -3,8 +3,9 @@ This code is developed by Ehsan Erfani @UW ATMOS.
 
 #
 ## Description:
-This code creates a forcing file that is used by a Lagrangian LES (SAM) as initial and boundary conditions.
+This code creates a forcing file (as initial and boundary conditions) that is used by a Lagrangian Large Eddy Simulation (LES), called SAM-UW.
 
 Inputs:
-- Netcdf files from the Trajectory package (also available on Github).
+- NetCDF files from the Trajectory package (also available on Github).
+- An default NetCDF forcing file (also available on Github).
  
